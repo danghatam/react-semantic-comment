@@ -1,0 +1,19 @@
+{
+  "name": "react-semantic-comment",
+  "version": "0.0.3",
+  "description": "react semantic comment",
+  "main": "src/comment.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "semantic",
+    "comment"
+  ],
+  "author": "Tam Dang <danghatam@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
